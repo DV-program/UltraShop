@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+
+# Node.js
+node_modules/
+dist/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Visual Studio / VS Code
+.vs/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
